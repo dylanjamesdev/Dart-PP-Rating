@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "chalkdart",
+      "rootUri": "file:///C:/Users/dylan/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/chalkdart-2.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "daddy_dart",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2022-07-02T22:09:27.405042Z",
+  "generator": "pub",
+  "generatorVersion": "2.17.5"
+}
