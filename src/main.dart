@@ -1,5 +1,6 @@
 import "dart:math";
 import 'package:chalkdart/chalk.dart';
+import './libs/example.dart' as lib;
 
 void main(){
     var penis_sizes = [
@@ -15,6 +16,9 @@ void main(){
     var pos = penis_sizes[random.nextInt(penis_sizes.length)];
 
     log('Your penis $pos.');    
+
+    lib.exampleFunc();
+
 }
 
 log(x){
