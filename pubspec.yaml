@@ -1,4 +1,4 @@
 name: "daddy_dart"
 environment:
   sdk: ">=2.10.0 <3.0.0"
-dependencies: {chalkdart: ^2.0.8}
+dependencies: { chalkdart: ^2.0.8 }
